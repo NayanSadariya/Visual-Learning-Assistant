@@ -22,6 +22,9 @@ This app aims to simplify learning by providing step-by-step solutions to proble
 ### 5. Save and Share Solutions
 - Users can save solutions as PDFs or share them with others via email or social media, making it easy to review, collaborate, and learn.
 
+### 6. History Saving
+- Users can save the history and and watch that what they searched before this allows a user to preview his studies and history.
+
 ## Technologies Used
 
 - **AI & Computer Vision:** Utilizes Optical Character Recognition (OCR) for text recognition and machine learning models for problem-solving.
